@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user-customer",
+    "name": "Ана Стојанова",
+    "email": "customer@lokalno.mk",
+    "password": "demo123",
+    "role": "customer",
+    "phone": "070 123 456"
+  },
+  {
+    "id": "user-business",
+    "name": "Марко Петров",
+    "email": "business@lokalno.mk",
+    "password": "demo123",
+    "role": "business",
+    "phone": "075 222 333",
+    "businessId": "biz-01"
+  },
+  {
+    "id": "user-admin",
+    "name": "Администратор",
+    "email": "admin@lokalno.mk",
+    "password": "demo123",
+    "role": "admin"
+  }
+]

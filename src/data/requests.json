@@ -1,0 +1,42 @@
+[
+  {
+    "id": "req-01",
+    "type": "product",
+    "customerId": "user-customer",
+    "customerName": "Ана Стојанова",
+    "email": "customer@lokalno.mk",
+    "phone": "070 123 456",
+    "businessId": "biz-01",
+    "productId": "prod-01",
+    "quantity": 2,
+    "message": "Дали може да подигнам две тегли утре попладне?",
+    "status": "Во обработка",
+    "createdAt": "2026-06-15T10:24:00.000Z"
+  },
+  {
+    "id": "req-02",
+    "type": "product",
+    "customerId": "user-customer",
+    "customerName": "Ана Стојанова",
+    "email": "customer@lokalno.mk",
+    "phone": "070 123 456",
+    "businessId": "biz-03",
+    "productId": "prod-05",
+    "quantity": 1,
+    "message": "Ми треба торта за сабота за 8 лица.",
+    "status": "Испратено",
+    "createdAt": "2026-06-16T14:10:00.000Z"
+  },
+  {
+    "id": "req-03",
+    "type": "contact",
+    "customerId": "user-customer",
+    "customerName": "Ана Стојанова",
+    "email": "customer@lokalno.mk",
+    "phone": "070 123 456",
+    "businessId": "biz-08",
+    "message": "Дали имате подарок сетови со сапуни и масла?",
+    "status": "Одговорено",
+    "createdAt": "2026-06-12T08:45:00.000Z"
+  }
+]
